@@ -1,1 +1,1 @@
-shell basics
+project directory for Shell Permissions
