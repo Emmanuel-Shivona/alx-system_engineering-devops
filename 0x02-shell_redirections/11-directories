@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lap|grep "/"|grep -v "\.\/"|wc -l
