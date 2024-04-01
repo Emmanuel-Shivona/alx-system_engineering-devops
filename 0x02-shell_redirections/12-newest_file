@@ -1,1 +1,0 @@
-ls -l|tail -n 10|sort n
